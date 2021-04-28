@@ -1,0 +1,2 @@
+# kaynaklar
+Soft Sec Kaynakları
