@@ -31,7 +31,7 @@ Sizin gibi değerli insanlara programlama, siber güvenlik ve daha nicesini öğ
 9. Bunlardan sonra artık kendi yolunu çizebilirsin.
 
 ## Neden siber güvenlikte python çoğunlukla kullanılıyor?
-- Python öğrenmesi diğer dillere göre daha basit bir dildir..
+- Python öğrenmesi diğer dillere göre daha basit bir dildir.
 - Python çok amaçlı kullanılan bir dildir.
 
 ## Kaynaklar
