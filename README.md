@@ -16,12 +16,10 @@
 
 
 ## Academy
-Sizin gibi değerli insanlara programlama, siber güvenlik ve daha nicesini öğretmek için HacWare sunucusunda(https://discord.io/soft-sec) her hafta cumartesi günleri eğitim vermekteyiz. Bence gelin çok şey öğretiyoruz ama yinede ben o zamanlar meşgulum diyenleriniz varsa SoftSec youtube kanalımızda(https://youtube.com/c/SoftSec/) eğitimlerin kısaltılmış hallerini paylaşıyoruz. İzlemenizi ve daha sonraki yayınlardan haberiniz olması için abone olup ve bildirimleri açmayı unutmayınız. İsteyen bize ulaşıp eğer onaylanırsa sunucuda academy verebilir.
+Sizin gibi değerli insanlara programlama, siber güvenlik ve daha nicesini öğretmek için SoftSec sunucusunda(https://discord.io/soft-sec) her hafta cumartesi günleri eğitim vermekteyiz. Bence gelin çok şey öğretiyoruz ama yinede ben o zamanlar meşgulum diyenleriniz varsa SoftSec youtube kanalımızda(https://youtube.com/c/SoftSec/) eğitimlerin kısaltılmış hallerini paylaşıyoruz. İzlemenizi ve daha sonraki yayınlardan haberiniz olması için abone olup ve bildirimleri açmayı unutmayınız. İsteyen bize ulaşıp eğer onaylanırsa sunucuda academy verebilir.
 
 ## CTF ve King-Off-the-Hill
-Öncelikle 1. hafta CTF çözüyoruz. 2. hafta King-Off-the-Hill atıyoruz. Birde bunların hepsi Çarşamba günleri HacWare sunucusunda(https://discord.io/soft-sec) oluyor. Herkez izlemek içinde gelebilir katılmak içinde. İsteyen sunucuda eğer onaylanır ise CTF çözebilir.
-
-Not: Şuanlık CTF ve King-Off-the-Hill Youtube'a yüklenmiyor.
+Genellikle [SoftSec sunucusunda](https://discord.io/soft-sec) CTF veya King Off the Hill atıyoruz senide bekleriz. Herkes izlemek içinde gelebilir katılmak içinde.
 
 <details>
 <summary>Kendinizi Deneyebileceğiniz CTF ve King-Off-the-Hill Platformları</summary>
@@ -46,48 +44,47 @@ Not: Şuanlık CTF ve King-Off-the-Hill Youtube'a yüklenmiyor.
 4. https://github.com/danielmiessler/SecLists/
 5. https://www.exploit-db.com/
 6. https://www.onworks.net/
+7. https://github.com/carlospolop/privilege-escalation-awesome-scripts-suite
+8. https://linux-dersleri.github.io/
+9. https://github.com/swisskyrepo/PayloadsAllTheThings
 </details>
 
-## Nasıl soru sorarım? :D
+Elimde dolu kaynak ve ctf platformu oldu ama nasıl bir yol izlemeliyim diyorsan [burada](https://blog.tryhackme.com/free_path) açıklamışlar buyur.
+
+## Nasıl soru sorarım? :joy:
 
 ![Nasıl soru sorulur?](https://raw.githubusercontent.com/SoftSec-git/kaynaklar/main/question.svg)
 
-## Nasıl Siber güvenlikçi olurum?
+## Nasıl Siber güvenlik uzmanı olurum?
 1. Linux'un nasıl birşey olduğunu nasıl çalıştığını arkada neler döndüğünü bilmen lazım işte bu iş için bir video çektik *******.
-1. Http, https, request, response, gibi birçok terimi öğren https://www.youtube.com/watch?v=PD8r9ISYgQo
-1. İnternet nedir ne işe yarar nasıl çalışır bunları bilmen lazım bunun içinde bir oynatma listesi çektik https://www.youtube.com/watch?v=z_hwl6O63rg&list=PLmc73ogn7_HP0VUkdJBUpbf28dRN30zHK
-1. Hacking dünyasında çoğunlukla kullanılan kali linux'u kurun nasıl kuracağız diyiyorsanız  bu video güzel https://www.youtube.com/watch?v=m1Um-lSr50k&t=53s birde bu videoda 2020.3 kuruyor aynı işlemleri en son sürümdede yapabilirsiniz.
-1. Temel linux komutlarını öğreniniz bunun için https://www.youtube.com/watch?v=Npj7TDi2XSA&list=PLPa55dyKM2F2qm1AlNjld8cl2akV2FLyh bu oynatma listesi güzel birde bunları izledikten sonra https://linux-dersleri.github.io/ burdaki dökümanları da okuyunuz.
+1. Http, https, request, response, gibi birçok terimi öğren: https://www.youtube.com/watch?v=PD8r9ISYgQo
+1. İnternet nedir, ne işe yarar, nasıl çalışır bunları bilmen lazım bunun içinde bir oynatma listesi çektik: https://www.youtube.com/watch?v=z_hwl6O63rg&list=PLmc73ogn7_HP0VUkdJBUpbf28dRN30zHK
+1. Hacking dünyasında çoğunlukla kullanılan kali linux'u kurun nasıl kuracağız diyiyorsanız bu video güzel: https://www.youtube.com/watch?v=m1Um-lSr50k&t=53s bir de bu videoda 2020.3 kuruyor aynı işlemleri en son sürümdede yapabilirsiniz.
+1. Temel linux komutlarını öğreniniz bunun için https://www.youtube.com/watch?v=Npj7TDi2XSA&list=PLPa55dyKM2F2qm1AlNjld8cl2akV2FLyh bu oynatma listesi güzel bir de bunları izledikten sonra https://linux-dersleri.github.io/ burdaki dökümanları da okuyunuz.
 1. Python öğren https://www.youtube.com/playlist?list=PLzIWkToFwqHRZWCI_helg4PeN184yTbYS ama siber güvenlik için öğreneceksen https://www.udemy.com/course/python-sifirdan-ileri-seviyeye/ bunu kesinlikle alman lazım.
 1. Bundan sonrasınında https://www.udemy.com/course/etik-hacker-olma-kursu/ bu kursu alarak öğrenebilirsin
 1. Yukarıdaki maddelerin hepsini yaptıysan şimdi alıştırma vakti gelmiş demektir. Bunun içinde https://tryhackme.com/ sitesinde hem öğren hemde ctf çöz
 1. Kendi alanını seç(web, reverse engineer, mobil, yazılımcı, vs.)
 1. Bunlardan sonra artık kendi yolunu çizebilirsin
 
-## Neden siber güvenlikte python çoğunlukla kullanılıyor.
+## Neden siber güvenlikte Python çoğunlukla kullanılıyor?
 - Python diğer dillere göre öğrenmesi daha kolay.
 - Python çok amaçlı kullanılan dillir.
 
-## Nasıl Siber güvenlikçi olurum?
-1. Http, https, request, response, gibi birçok terimi öğren https://www.youtube.com/watch?v=PD8r9ISYgQo
-2. İnternet nedir ne işe yarar nasıl çalışır bunları bilmen lazım bunun içinde bir oynatma listesi çektik https://www.youtube.com/watch?v=z_hwl6O63rg&list=PLmc73ogn7_HP0VUkdJBUpbf28dRN30zHK
-3. Hacking dünyasında çoğunlukla kullanılan kali linux'u kurun nasıl kuracağız diyiyorsanız  bu video güzel https://www.youtube.com/watch?v=m1Um-lSr50k&t=53s birde bu videoda 2020.3 kuruyor aynı işlemleri en son sürümdede yapabilirsiniz.
-4. Temel linux komutlarını öğreniniz bunun için https://www.youtube.com/watch?v=Npj7TDi2XSA&list=PLPa55dyKM2F2qm1AlNjld8cl2akV2FLyh bu oynatma listesi güzel birde bunları izledikten sonra https://linux-dersleri.github.io/ burdaki dökümanları da okuyunuz.
-5. Python öğren https://www.youtube.com/playlist?list=PLzIWkToFwqHRZWCI_helg4PeN184yTbYS ama siber güvenlik için öğreneceksen https://www.udemy.com/course/python-sifirdan-ileri-seviyeye/ bunu kesinlikle alman lazım.
-6. Bundan sonrasınında https://www.udemy.com/course/etik-hacker-olma-kursu/ bu kursu alarak öğrenebilirsin
-7. Yukarıdaki maddelerin hepsini yaptıysan şimdi alıştırma vakti gelmiş demektir. Bunun içinde https://tryhackme.com/ sitesinde hem öğren hemde CTF çöz.
-8. Kendi alanını seç(web, reverse engineer, mobil, yazılımcı, vs.).
-9. Bunlardan sonra artık kendi yolunu çizebilirsin.
+<details>
+<summary>Öğrenmek için:</summary>
 
-## Neden siber güvenlikte python çoğunlukla kullanılıyor?
-- Python öğrenmesi diğer dillere göre daha basit bir dildir.
-- Python çok amaçlı kullanılan bir dildir.
+- https://docs.python.org/3/tutorial/
+- https://www.youtube.com/playlist?list=PL-osiE80TeTskrapNbzXhwoFUiLCjGgY7
+- https://youtube.com/playlist?list=PL-osiE80TeTsqhIuOqKhwlXsIBIdSeYtc (yukarıdaki eğitimin devamıdır.)
+
+</details>
 
 ## Kaynaklar
 <details>
-<summary>Takip edilmesi gereken Youtube kanalları:</summary>
+<summary>Takip edilmesi gereken YouTube kanalları:</summary>
 
-### Siber güvenlik
+### Siber Güvenlik
 - [SoftSec](https://www.youtube.com/channel/UCXBUnKD0OTb7UEqs4ibso9g)
 - [Can Değer](https://www.youtube.com/user/theblaxx)
 - [Mehmet Dursun İnce](https://www.youtube.com/channel/UClis21-nGFunHa9agc7Md_Q)
@@ -97,7 +94,7 @@ Not: Şuanlık CTF ve King-Off-the-Hill Youtube'a yüklenmiyor.
 - [Gökhan Muherremoğlu](https://www.youtube.com/channel/UCK1Eb19myZZZp21laMcmoJg)
 
 <details>
-<summary>İngilizce siber güvenlikle ilgili youtube kanalları:</summary>
+<summary>Siber güvenlikle ilgili İngilizce youtube kanalları:</summary>
 
 - [John Hammond](https://www.youtube.com/user/RootOfTheNull)
 - [NetworkChuck](https://www.youtube.com/user/NetworkChuck)
@@ -124,6 +121,12 @@ Not: Şuanlık CTF ve King-Off-the-Hill Youtube'a yüklenmiyor.
 - [Emircan Dalman](https://www.youtube.com/channel/UCelXax_n37HQmaiCUSMa-HA/videos)
 - [Engin Demiroğlu](https://www.youtube.com/channel/UCRjiquPh4mjPNoOV9eCilXQ)
 - [Tekno Date](https://www.youtube.com/channel/UCk2NW1-7Jzm55FP2v3pVn-Q)
+
+<details>
+<summary>Programlamayla ilgili İngilizce YouTube kanalları:</summary>
+
+- [schafer5](https://www.youtube.com/user/schafer5)
+</details>
 </details>
 
 <details>
@@ -140,4 +143,59 @@ Not: Şuanlık CTF ve King-Off-the-Hill Youtube'a yüklenmiyor.
 - https://www.btkakademi.gov.tr/
 - https://www.youtube.com/
 
+</details>
+
+## Web Security
+Kuşkusuz burdaki en iyi kaynak [portswigger](https://portswigger.net/web-security/dashboard) olucaktır. Ama ctf istiyorsan [pentesterlab](https://pentesterlab.com/) var.
+<details>
+<summary>Vulnerabilitys (Açıklar)</summary>
+
+###  SQL Injection (SQLi)
+SQLi sorguya müdahele ederek veritabanında kod çalıştırmadır. Bunun sonucunda veritabanını ele geçirmiş demektir; bu da tüm şifreler, adresler, kişisel bilgiler ve daha fazlası demektir.
+[Daha fazlası için](https://portswigger.net/web-security/sql-injection)
+<details>
+<summary>Kaynaklar ve Payloadlar</summary>
+
+- https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/SQL%20Injection
+- https://www.codecademy.com/articles/sql-commands
+- https://portswigger.net/web-security/sql-injection/cheat-sheet
+</details>
+
+###  Cross-Site Scripting (XSS)
+XSS sorguya müdahele ederek javascript çalıştırmaktır. Bunun sonucunda adminin cookieside kolaylıkla ele geçirmiş demektir; bu da siteye admin olarak giriş yapabiliriz demektir. 
+[Daha fazlası için](https://portswigger.net/web-security/cross-site-scripting)
+<details>
+<summary>Kaynaklar ve Payloadlar</summary>
+
+- https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/XSS%20Injection
+- https://github.com/payloadbox/xss-payload-list
+- https://portswigger.net/web-security/cross-site-scripting/cheat-sheet
+</details>
+
+###  Directory traversal (LFI)
+LFI sorguya müdahele ederek sistemdeki kullanıcının okuma izni olan tüm dosyaları okuyabilmedir. Bunun sonucunda veritabanı, gizli dosyalar, şifreler ve daha fazlası kolaylıkla ele geçirmiş demektir.
+[Daha fazlası için](https://portswigger.net/web-security/file-path-traversal)
+<details>
+<summary>Kaynaklar ve Payloadlar</summary>
+
+- https://book.hacktricks.xyz/pentesting-web/file-inclusion/lfi-linux-list
+</details>
+
+###  OS command injection
+OS command injection sorguya müdahele ederek sistemde kod çalıştırmadır. Bunun sonucunda sistme tamamen sızılabilir.
+[Daha fazlası için](https://portswigger.net/web-security/os-command-injection)
+<details>
+<summary>Kaynaklar ve Payloadlar</summary>
+
+- https://book.hacktricks.xyz/pentesting-web/file-inclusion/lfi-linux-list
+</details>
+
+###  OS command injection
+OS command injection sorguya müdahele ederek sistemde kod çalıştırmadır. Bunun sonucunda sistme tamamen sızılabilir.
+[Daha fazlası için](https://portswigger.net/web-security/os-command-injection)
+<details>
+<summary>Kaynaklar ve Payloadlar</summary>
+
+- https://book.hacktricks.xyz/pentesting-web/file-inclusion/lfi-linux-list
+</details>
 </details>
