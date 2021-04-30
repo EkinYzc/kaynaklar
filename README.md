@@ -23,7 +23,8 @@ Sizin gibi değerli insanlara programlama, siber güvenlik ve daha nicesini öğ
 
 Not: Şuanlık CTF ve King-Off-the-Hill Youtube'a yüklenmiyor.
 
-### Kendinizi Deneyebileceğiniz CTF ve King-Off-the-Hill Platformları
+<details>
+<summary>Kendinizi Deneyebileceğiniz CTF ve King-Off-the-Hill Platformları</summary>
 
 1. https://tryhackme.com
 2. https://hackthebox.eu
@@ -35,14 +36,21 @@ Not: Şuanlık CTF ve King-Off-the-Hill Youtube'a yüklenmiyor.
 8. https://picoctf.org
 9. https://overthewire.org
 10. https://ctflearn.com/
+</details>
+<details>
+<summary>En sevilen CTF kaynakları ve toollar</summary>
 
-### En sevilen CTF kaynakları ve toollar
 1. https://gchq.github.io/CyberChef/
 2. https://gtfobins.github.io/
 3. https://www.revshells.com/
 4. https://github.com/danielmiessler/SecLists/
 5. https://www.exploit-db.com/
 6. https://www.onworks.net/
+</details>
+
+## Nasıl soru sorarım? :D
+
+
 
 ## Nasıl Siber güvenlikçi olurum?
 1. Linux'un nasıl birşey olduğunu nasıl çalıştığını arkada neler döndüğünü bilmen lazım işte bu iş için bir video çektik *******.
@@ -120,10 +128,7 @@ Not: Şuanlık CTF ve King-Off-the-Hill Youtube'a yüklenmiyor.
 
 <details>
 <summary>Website</summary>
-#### Bilgi dolu web siteleri:
-- https://book.hacktricks.xyz/
-- https://www.hackingarticles.in/
-- www.securityidiots.com
+
 #### Kurslar için websiteler:
 - https://www.udemy.com/
 - https://www.btkakademi.gov.tr/
