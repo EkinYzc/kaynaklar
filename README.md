@@ -35,7 +35,6 @@ Not: Şuanlık CTF ve King-Off-the-Hill Youtube'a yüklenmiyor.
 8. https://picoctf.org
 9. https://overthewire.org
 10. https://ctflearn.com/
-11. 
 
 ### En sevilen CTF kaynakları ve toollar
 1. https://gchq.github.io/CyberChef/
