@@ -120,7 +120,10 @@ Not: Şuanlık CTF ve King-Off-the-Hill Youtube'a yüklenmiyor.
 
 <details>
 <summary>Website</summary>
-
+#### Bilgi dolu web siteleri:
+- https://book.hacktricks.xyz/
+- https://www.hackingarticles.in/
+- www.securityidiots.com
 #### Kurslar için websiteler:
 - https://www.udemy.com/
 - https://www.btkakademi.gov.tr/
