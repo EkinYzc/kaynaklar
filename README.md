@@ -50,7 +50,7 @@ Not: Şuanlık CTF ve King-Off-the-Hill Youtube'a yüklenmiyor.
 
 ## Nasıl soru sorarım? :D
 
-
+![Nasıl soru sorulur?](https://raw.githubusercontent.com/SoftSec-git/kaynaklar/main/question.svg)
 
 ## Nasıl Siber güvenlikçi olurum?
 1. Linux'un nasıl birşey olduğunu nasıl çalıştığını arkada neler döndüğünü bilmen lazım işte bu iş için bir video çektik *******.
@@ -128,6 +128,12 @@ Not: Şuanlık CTF ve King-Off-the-Hill Youtube'a yüklenmiyor.
 
 <details>
 <summary>Website</summary>
+
+#### Bilgi dolu websiteleri:
+
+- https://www.hackingarticles.in/
+- https://book.hacktricks.xyz
+- www.securityidiots.com
 
 #### Kurslar için websiteler:
 - https://www.udemy.com/
