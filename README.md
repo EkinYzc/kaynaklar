@@ -2,22 +2,64 @@
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=SoftSec.kaynaklar) [![SoftSec](https://img.shields.io/badge/SoftSec-Youtube-red)](https://www.youtube.com/channel/UCXBUnKD0OTb7UEqs4ibso9g?sub_confirmation=1) [![Discord](https://discord.com/api/guilds/835246397137748039/widget.png)](https://discord.gg/BQYJxfQMeR)
 
-|SoftSec|Yetki|Linkler|
-|:---:|:---:|:---:|
-|Yusuf|Kurucu|[![Yusuf](https://img.shields.io/badge/SoftSec-Discord-purple)](https://discord.com/users/415182981884543004)|
-|Ömer|Kurucu|[![Ömer](https://img.shields.io/badge/SoftSec-Discord-purple)](https://discord.com/users/778185074511970304)|
-|Alp|Moderatör|[![Alp](https://img.shields.io/badge/SoftSec-Discord-purple)](https://discord.com/users/657999313364058134)|
-|FeXa|Moderatör|[![Halil](https://img.shields.io/badge/SoftSec-Discord-purple)](https://discord.com/users/798891326958862376)|
-|Bora|Moderatör|[![Bora](https://img.shields.io/badge/SoftSec-Discord-purple)](https://discord.com/users/693458797737541682)|
-|crast|Moderatör|[![Yusuf](https://img.shields.io/badge/SoftSec-Discord-purple)](https://discord.com/users/822078172396519424)|
-|Ekin|Moderatör|[![Ekin](https://img.shields.io/badge/SoftSec-Discord-purple)](https://discord.com/users/812338780862021673)|
-|Onur|Moderatör|[![Onur](https://img.shields.io/badge/SoftSec-Discord-purple)](https://discord.com/users/835907613890707516)|
-|Erkan|Moderatör|[![Erkan](https://img.shields.io/badge/SoftSec-Discord-purple)](https://discord.com/users/792440338937151498)|
+|    SoftSec    |   Yetki   |                                                    Linkler                                                     |
+| :-----------: | :-------: | :------------------------------------------------------------------------------------------------------------: |
+|   Southrain   |  Kurucu   | [![Yusuf](https://img.shields.io/badge/SoftSec-Discord-purple)](https://discord.com/users/415182981884543004)  |
+|    uNdead     |  Kurucu   |  [![ömer](https://img.shields.io/badge/SoftSec-Discord-purple)](https://discord.com/users/778185074511970304)  |
+|     FeXa      | Moderatör |  [![fexa](https://img.shields.io/badge/SoftSec-Discord-purple)](https://discord.com/users/798891326958862376)  |
+|    Alp1903    | Moderatör |  [![Alp](https://img.shields.io/badge/SoftSec-Discord-purple)](https://discord.com/users/657999313364058134)   |
+|    SHEXER     | Moderatör | [![SHEXER](https://img.shields.io/badge/SoftSec-Discord-purple)](https://discord.com/users/792440338937151498) |
+| {$MANJAR}Onur | Moderatör |  [![Onur](https://img.shields.io/badge/SoftSec-Discord-purple)](https://discord.com/users/538110241045348372)  |
+|     Bora      | Moderatör |  [![Bora](https://img.shields.io/badge/SoftSec-Discord-purple)](https://discord.com/users/693458797737541682)  |
+|     crast     | Moderatör | [![crast](https://img.shields.io/badge/SoftSec-Discord-purple)](https://discord.com/users/835907613890707516)  |
+|     Ekin      | Moderatör |  [![Ekin](https://img.shields.io/badge/SoftSec-Discord-purple)](https://discord.com/users/827300245988835408)  |
 
 
 ## Academy
-Sizin gibi değerli insanlara programlama, siber güvenlik ve daha nicesini öğretmek için SoftSec sunucusunda (https://discord.io/soft-sec) **tamamen ücretsiz** eğitim vermekteyiz. Ayrıca Youtube kanalımız da takip edebilirsiniz: https://www.youtube.com/c/SoftSec İzlemenizi ve daha sonraki yayınlardan haberiniz olması için abone olup ve bildirimleri açmayı unutmayınız. İsteyen bize ulaşıp eğer onaylanırsa sunucuda academy verebilir.
+Sizin gibi değerli insanlara programlama, siber güvenlik ve daha nicesini öğretmek için HacWare sunucusunda(https://discord.io/soft-sec) her hafta cumartesi günleri eğitim vermekteyiz. Bence gelin çok şey öğretiyoruz ama yinede ben o zamanlar meşgulum diyenleriniz varsa SoftSec youtube kanalımızda(https://youtube.com/c/SoftSec/) eğitimlerin kısaltılmış hallerini paylaşıyoruz. İzlemenizi ve daha sonraki yayınlardan haberiniz olması için abone olup ve bildirimleri açmayı unutmayınız. İsteyen bize ulaşıp eğer onaylanırsa sunucuda academy verebilir.
 
+## CTF ve King-Off-the-Hill
+Öncelikle 1. hafta CTF çözüyoruz. 2. hafta King-Off-the-Hill atıyoruz. Birde bunların hepsi Çarşamba günleri HacWare sunucusunda(https://discord.io/soft-sec) oluyor. Herkez izlemek içinde gelebilir katılmak içinde. İsteyen sunucuda eğer onaylanır ise CTF çözebilir.
+
+Not: Şuanlık CTF ve King-Off-the-Hill Youtube'a yüklenmiyor.
+
+### Kendinizi Deneyebileceğiniz CTF ve King-Off-the-Hill Platformları
+
+1. https://tryhackme.com
+2. https://hackthebox.eu
+3. https://ctftime.org/
+4. https://priviahub.com/
+5. https://portswigger.net/web-security/
+6. https://imaginary.ml
+7. https://vulnhub.com
+8. https://picoctf.org
+9. https://overthewire.org
+10. https://ctflearn.com/
+11. 
+
+### En sevilen CTF kaynakları ve toollar
+1. https://gchq.github.io/CyberChef/
+2. https://gtfobins.github.io/
+3. https://www.revshells.com/
+4. https://github.com/danielmiessler/SecLists/
+5. https://www.exploit-db.com/
+6. https://www.onworks.net/
+
+## Nasıl Siber güvenlikçi olurum?
+1. Linux'un nasıl birşey olduğunu nasıl çalıştığını arkada neler döndüğünü bilmen lazım işte bu iş için bir video çektik *******.
+1. Http, https, request, response, gibi birçok terimi öğren https://www.youtube.com/watch?v=PD8r9ISYgQo
+1. İnternet nedir ne işe yarar nasıl çalışır bunları bilmen lazım bunun içinde bir oynatma listesi çektik https://www.youtube.com/watch?v=z_hwl6O63rg&list=PLmc73ogn7_HP0VUkdJBUpbf28dRN30zHK
+1. Hacking dünyasında çoğunlukla kullanılan kali linux'u kurun nasıl kuracağız diyiyorsanız  bu video güzel https://www.youtube.com/watch?v=m1Um-lSr50k&t=53s birde bu videoda 2020.3 kuruyor aynı işlemleri en son sürümdede yapabilirsiniz.
+1. Temel linux komutlarını öğreniniz bunun için https://www.youtube.com/watch?v=Npj7TDi2XSA&list=PLPa55dyKM2F2qm1AlNjld8cl2akV2FLyh bu oynatma listesi güzel birde bunları izledikten sonra https://linux-dersleri.github.io/ burdaki dökümanları da okuyunuz.
+1. Python öğren https://www.youtube.com/playlist?list=PLzIWkToFwqHRZWCI_helg4PeN184yTbYS ama siber güvenlik için öğreneceksen https://www.udemy.com/course/python-sifirdan-ileri-seviyeye/ bunu kesinlikle alman lazım.
+1. Bundan sonrasınında https://www.udemy.com/course/etik-hacker-olma-kursu/ bu kursu alarak öğrenebilirsin
+1. Yukarıdaki maddelerin hepsini yaptıysan şimdi alıştırma vakti gelmiş demektir. Bunun içinde https://tryhackme.com/ sitesinde hem öğren hemde ctf çöz
+1. Kendi alanını seç(web, reverse engineer, mobil, yazılımcı, vs.)
+1. Bunlardan sonra artık kendi yolunu çizebilirsin
+
+## Neden siber güvenlikte python çoğunlukla kullanılıyor.
+- Python diğer dillere göre öğrenmesi daha kolay.
+- Python çok amaçlı kullanılan dillir.
 
 ## Nasıl Siber güvenlikçi olurum?
 1. Http, https, request, response, gibi birçok terimi öğren https://www.youtube.com/watch?v=PD8r9ISYgQo
