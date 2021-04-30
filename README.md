@@ -187,15 +187,6 @@ OS command injection sorguya müdahele ederek sistemde kod çalıştırmadır. B
 <details>
 <summary>Kaynaklar ve Payloadlar</summary>
 
-- https://book.hacktricks.xyz/pentesting-web/file-inclusion/lfi-linux-list
-</details>
-
-###  OS command injection
-OS command injection sorguya müdahele ederek sistemde kod çalıştırmadır. Bunun sonucunda sistme tamamen sızılabilir.
-[Daha fazlası için](https://portswigger.net/web-security/os-command-injection)
-<details>
-<summary>Kaynaklar ve Payloadlar</summary>
-
-- https://book.hacktricks.xyz/pentesting-web/file-inclusion/lfi-linux-list
+- **
 </details>
 </details>
