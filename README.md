@@ -13,7 +13,7 @@
 |  Crast  | Moderatör | [![crast](https://img.shields.io/badge/SoftSec-Discord-blue)](https://discord.com/users/835907613890707516)  |
 |  Ekin   | Moderatör |  [![Ekin](https://img.shields.io/badge/SoftSec-Discord-blue)](https://discord.com/users/827300245988835408)  |
 
-## Başlamadan Önce
+## Önsöz
 Başlamadan önce siber güvenlik ve programlama konusunda kendinizi geliştirmek için ve aklınıza takılan veya cevabını öğrenmek istediğiniz sorularınızı sormak veya diğer üyelerin sorularını cevaplamak için Discord](https://discord.gg/BQYJxfQMeR) sunucumuza gelebilirsiniz. Ayrıca sunucu içerisinde eğlenceli etkinlikler de yapılıyor ve bu topluluğu sizlerle birlikte büyütmeye çalışıyoruz sizleri de bekleriz.Ayrıca herhangi bir sorunuz varsa Discord sunucumuza katılarak veya bize [Gmail](teamsoftsec@gmail.com) adresimizden ulaşarak sorabilirsiniz .
 
 ## Soru sormadan önce?
@@ -68,22 +68,38 @@ Tryhackme'de başlangıç için çizilmiş [blog yazısına](https://blog.tryhac
 
 
 ## Nasıl Siber güvenlik uzmanı olurum?
+<b>
+<details>
 <summary>İnternet nedir, ne işe yarar, nasıl çalışır</summary>
-https://www.youtube.com/watch?v=z_hwl6O63rg&list=PLmc73ogn7_HP0VUkdJBUpbf28dRN30zHK.
+
+- https://www.youtube.com/watch?v=z_hwl6O63rg&list=PLmc73ogn7_HP0VUkdJBUpbf28dRN30zHK
+</details>
+
+
+<details>
+<summary>Siber Güvenlik için Network</summary>
+
+- https://www.udemy.com/course/temel-network-egitimi/
+- https://www.udemy.com/course/temel-network-ag-egitimi-2/
+- https://www.udemy.com/course/complete-networking-fundamentals-course-ccna-start/ (CCNA hazırlananlar için)
+
+</details>
+
 <details>
 <summary>Web terimleri</summary>
+
 - https://www.youtube.com/watch?v=PD8r9ISYgQo
 </details>
 
-3. Penetrasyon için işletim sistemi kurulumu ve seçimi
+
 <details>
+<summary>Penetrasyon için işletim sistemi kurulumu ve seçimi</summary>
 
 - https://www.youtube.com/watch?v=KJEWiD4gJVk
 </details>
 
-4. Temel linux komutları  
 <details>
-
+<summary>Temel linux komutları</summary>
 
 - https://www.youtube.com/watch?v=Npj7TDi2XSA&list=PLPa55dyKM2F2qm1AlNjld8cl2akV2FLyh 
 - https://linux-dersleri.github.io/ 
@@ -92,18 +108,36 @@ https://www.youtube.com/watch?v=z_hwl6O63rg&list=PLmc73ogn7_HP0VUkdJBUpbf28dRN30
 
 </details>
 
-1. Python öğren https://www.youtube.com/playlist?list=PLzIWkToFwqHRZWCI_helg4PeN184yTbYS & https://www.btkakademi.gov.tr/portal/course/siber-guvenlik-icin-python-egitimi-9220#!/about
+<details>
+<summary>Python</summary>
 
-2. Siber güvenlik geniş bir alan olduğu için alt dallara ayrılıyor bunun için [bu linkten]() yararlanabilirisiniz.
-3.  Bunlardan sonra artık kendi yolunu çizebilirsin.
-
-## Neden siber güvenlikte Python çoğunlukla kullanılıyor?
-- Python diğer dillere göre öğrenmesi daha kolay.
-- Python çok amaçlı kullanılan dilldir.
-- Çok kapsamlı projeleri diğer dillere oranla daha kısa ve öz bir şekilde yazılabilmesi.
+- https://www.youtube.com/playlist?list=PLzIWkToFwqHRZWCI_helg4PeN184yTbYS 
+- https://www.btkakademi.gov.tr/portal/course/siber-guvenlik-icin-python-egitimi-9220#!/about
+- https://www.udemy.com/course/automate/
+</details>
 
 <details>
-<summary>Öğrenmek için:</summary>
+<summary>Siber güvenlik geniş bir alan olduğu için alt dallara ayrılıyor seçimini yap.</summary>
+
+- https://www.nurnlbnt.com/2021/03/29/siber-guvenligin-alt-dallari-nelerdir/
+- 
+</details>
+
+<details>
+<summary>Bunlardan sonra artık kendi yolunu çizebilirsin.
+</summary>
+
+- Başarılar :+1:
+</details></b>
+
+## Neden siber güvenlikte Python daha çok kullanılıyor?
+- Diğer dillere göre öğrenmesi daha kolay
+- Çok amaçlı kullanımı sayesinde birçok alanda sunduğu imkan
+- Kütüphanelerin kolay kullanımı ve işlevselliği
+- [Son olarak da](https://www.beyaz.net/tr/yazilim/makaleler/neden_python.html)
+
+<details>
+<summary>Öğrenmek için</summary>
 
 - https://docs.python.org/3/tutorial/
 - https://www.youtube.com/playlist?list=PL-osiE80TeTskrapNbzXhwoFUiLCjGgY7
@@ -151,6 +185,7 @@ https://www.youtube.com/watch?v=z_hwl6O63rg&list=PLmc73ogn7_HP0VUkdJBUpbf28dRN30
 - [DEFCONConference](https://www.youtube.com/channel/UC6Om9kAkl32dWlDSNlDS9Iw)
 - [TomNomNom](https://www.youtube.com/channel/UCyBZ1F8ZCJVKSIJPrLINFyA)
 - [zSecurity](https://www.youtube.com/user/zaidsabeeh)
+- [Eric Schwartzman](https://www.udemy.com/course/security-awareness/)
 </details>
 
 
@@ -179,12 +214,8 @@ https://www.youtube.com/watch?v=z_hwl6O63rg&list=PLmc73ogn7_HP0VUkdJBUpbf28dRN30
 - [Engin Demiroğlu](https://www.youtube.com/channel/UCRjiquPh4mjPNoOV9eCilXQ)
 - [Tekno Date](https://www.youtube.com/channel/UCk2NW1-7Jzm55FP2v3pVn-Q)
 - [CS50](https://www.youtube.com/channel/UCcabW7890RKJzL968QWEykA)
-
-<details>
-<summary>Programlamayla ilgili İngilizce YouTube kanalları:</summary>
-
 - [schafer5](https://www.youtube.com/user/schafer5)
-</details>
+
 </details>
 
 <details>
@@ -207,7 +238,8 @@ https://www.youtube.com/watch?v=z_hwl6O63rg&list=PLmc73ogn7_HP0VUkdJBUpbf28dRN30
 </details>
 
 ## Web Security
-Kuşkusuz burdaki en iyi kaynak [PortSwigger](https://portswigger.net/web-security/dashboard) olucaktır. Ama ctf istiyorsan [PentesterLab](https://pentesterlab.com/) var.
+- [PortSwigger](https://portswigger.net/web-security/dashboard)
+- [PentesterLab](https://pentesterlab.com/)
 
 
 ###  SQL Injection (SQLi)
@@ -217,7 +249,6 @@ Kuşkusuz burdaki en iyi kaynak [PortSwigger](https://portswigger.net/web-securi
 - https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/SQL%20Injection
 - https://www.codecademy.com/articles/sql-commands
 - https://portswigger.net/web-security/sql-injection/cheat-sheet
-</details>
 
 ###  Cross-Site Scripting (XSS)
 
@@ -226,7 +257,6 @@ Kuşkusuz burdaki en iyi kaynak [PortSwigger](https://portswigger.net/web-securi
 - https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/XSS%20Injection
 - https://github.com/payloadbox/xss-payload-list
 - https://portswigger.net/web-security/cross-site-scripting/cheat-sheet
-</details>
 
 ###  Directory traversal (LFI)
 - https://book.hacktricks.xyz/pentesting-web/file-inclusion
@@ -284,8 +314,6 @@ Kuşkusuz burdaki en iyi kaynak [PortSwigger](https://portswigger.net/web-securi
 - https://portswigger.net/web-security/access-control/idor
 - https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/Insecure%20Direct%20Object%20References
 
-### 2 factor Authentication Bypass (2FA Bypass)
+### Two factor Authentication Bypass (2FA Bypass)
 - https://book.hacktricks.xyz/pentesting-web/2fa-bypass
 - https://portswigger.net/web-security/authentication/multi-factor 
-
-</details>
