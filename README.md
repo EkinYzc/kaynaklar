@@ -17,8 +17,6 @@
 ## Başlamadan Önce
 Başlamadan önce [Discord](https://discord.gg/BQYJxfQMeR) sunucumuza gelirseniz çok şey kazanabilirsiniz. Artık devam edebiliriz.
 
-<iframe src="https://discord.com/widget?id=835246397137748039&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
-
 ## CTF ve King-Off-the-Hill
 #### CTF nedir?
 CTF(Capture the flag), bayrağı yakala adıyla bilinen siber güvenlik alanında düzenlenen uygulamalı öğretici yarışmalardır.Yarışmaların asıl amacı, hack konusunda öğrenilen bilgiye sahip olan insanların bu bilgileri pratiğe dökerek kendilerini test etmelerini sağlamaktır.
