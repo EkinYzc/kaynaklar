@@ -2,6 +2,7 @@
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=SoftSec.kaynaklar) [![SoftSec](https://img.shields.io/badge/SoftSec-Youtube-red)](https://www.youtube.com/channel/UCXBUnKD0OTb7UEqs4ibso9g?sub_confirmation=1) [![Discord](https://discord.com/api/guilds/835246397137748039/widget.png)](https://discord.gg/BQYJxfQMeR)
 
+![ProtonMail](https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white)
 |    SoftSec    |   Yetki   |                                                    Linkler                                                     |
 | :-----------: | :-------: | :------------------------------------------------------------------------------------------------------------: |
 |   Southrain   |  Kurucu   | [![Yusuf](https://img.shields.io/badge/SoftSec-Discord-purple)](https://discord.com/users/415182981884543004)  |
@@ -206,10 +207,12 @@ Kuşkusuz burdaki en iyi kaynak [PortSwigger](https://portswigger.net/web-securi
 ###  Directory traversal (LFI)
 - https://book.hacktricks.xyz/pentesting-web/file-inclusion
 - https://portswigger.net/web-security/file-path-traversal
+- https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/Directory%20Traversal
 
 ###  API Pentesting
 - https://book.hacktricks.xyz/pentesting/pentesting-web/api-pentesting
 - https://portswigger.net/support/using-burp-to-test-a-rest-api
+- https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/API%20Key%20Leaks
 
 ###  OS command injection
 - https://owasp.org/www-community/attacks/Command_Injection
@@ -218,10 +221,12 @@ Kuşkusuz burdaki en iyi kaynak [PortSwigger](https://portswigger.net/web-securi
 ###  Cross-site request forgery (CSRF)
 - https://book.hacktricks.xyz/pentesting-web/csrf-cross-site-request-forgery
 - https://portswigger.net/web-security/csrf
+- https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/CSRF%20Injection
 
 ### OAuth 2.0
 - https://book.hacktricks.xyz/pentesting-web/oauth-to-account-takeover
 - https://portswigger.net/web-security/oauth
+- https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/OAuth
 
 ### Business logic vulnerabilities 
 - https://portswigger.net/web-security/logic-flaws
@@ -231,25 +236,29 @@ Kuşkusuz burdaki en iyi kaynak [PortSwigger](https://portswigger.net/web-securi
 - https://book.hacktricks.xyz/pentesting-web/xxe-xee-xml-external-entity
 - https://portswigger.net/web-security/xxe
 - https://owasp.org/www-community/vulnerabilities/XML_External_Entity_(XXE)_Processing
+- https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/XXE%20Injection
 
 ### Cross-origin resource sharing (CORS) 
 - https://book.hacktricks.xyz/pentesting-web/cors-bypass
 - https://portswigger.net/web-security/cors
+- https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/CORS%20Misconfiguration
 
 ### Server-side request forgery (SSRF) 
 - https://book.hacktricks.xyz/pentesting-web/ssrf-server-side-request-forgery
 - https://portswigger.net/web-security/ssrf
 - https://owasp.org/www-community/attacks/Server_Side_Request_Forgery
+- https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/Server%20Side%20Request%20Forgery
 
 ### Server-side template injection (SSTI)
 - https://book.hacktricks.xyz/pentesting-web/ssti-server-side-template-injection
 - https://portswigger.net/research/server-side-template-injection
 - https://owasp.org/www-chapter-ghana/assets/slides/Owasp_SSTI_final.pdf
+- https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/Server%20Side%20Template%20Injection
 
 ### Insecure direct object references (IDOR)
 - https://book.hacktricks.xyz/pentesting-web/idor
 - https://portswigger.net/web-security/access-control/idor
-- 
+- https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/Insecure%20Direct%20Object%20References
 
 ### 2 factor Authentication Bypass (2FA Bypass)
 - https://book.hacktricks.xyz/pentesting-web/2fa-bypass
