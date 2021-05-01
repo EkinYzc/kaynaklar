@@ -62,7 +62,7 @@ Artık bir çok kaynağa sahibiz fakat nasıl bir yol izleyeceğim  diyorsan [bu
 ![Nasıl soru sorulur?](https://raw.githubusercontent.com/SoftSec-git/kaynaklar/main/question.svg)
 
 ## Nasıl Siber güvenlik uzmanı olurum?
-1. İnternet nedir, ne işe yarar, nasıl çalışır bunları bilmen lazım bunun içinde bir oynatma listesi çektik: [https://www.youtube.com/watch?v=z_hwl6O63rg&list=PLmc73ogn7_HP0VUkdJBUpbf28dRN30zHK].
+1. İnternet nedir, ne işe yarar, nasıl çalışır bunları bilmen lazım bunun için de bir oynatma listesi çektik: [https://www.youtube.com/watch?v=z_hwl6O63rg&list=PLmc73ogn7_HP0VUkdJBUpbf28dRN30zHK].
 2. Http, https, request, response, gibi birçok terimi öğren: [https://www.youtube.com/watch?v=PD8r9ISYgQo].
 3. Hacking dünyasında çoğunlukla kullanılan kali linux'u kurun nasıl kuracağız diyiyorsanız bu video güzel: [https://www.youtube.com/watch?v=KJEWiD4gJVk].
 4. Temel linux komutlarını öğreniniz bunun için [https://www.youtube.com/watch?v=Npj7TDi2XSA&list=PLPa55dyKM2F2qm1AlNjld8cl2akV2FLyh] bu oynatma listesi güzel bir de bunları izledikten sonra [https://linux-dersleri.github.io/] burdaki dökümanları da okuyunuz.
