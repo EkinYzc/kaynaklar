@@ -1,7 +1,6 @@
 # SoftSec
 
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=SoftSec.kaynaklar) [![SoftSec](https://img.shields.io/badge/SoftSec-Youtube-red)](https://www.youtube.com/channel/UCXBUnKD0OTb7UEqs4ibso9g?sub_confirmation=1) [![Discord](https://discord.com/api/guilds/835246397137748039/widget.png)](https://discord.gg/BQYJxfQMeR)
-
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=SoftSec.kaynaklar) [![SoftSec](https://img.shields.io/badge/SoftSec-Youtube-red)](https://www.youtube.com/channel/UCXBUnKD0OTb7UEqs4ibso9g?sub_confirmation=1) [![Discord](https://discord.com/api/guilds/835246397137748039/widget.png)](https://discord.gg/BQYJxfQMeR) 
 | SoftSec |   Yetki   |                                                   Linkler                                                    |
 | :-----: | :-------: | :----------------------------------------------------------------------------------------------------------: |
 |  Yusuf  |  Kurucu   | [![Yusuf](https://img.shields.io/badge/SoftSec-Discord-black)](https://discord.com/users/415182981884543004) |
@@ -15,19 +14,27 @@
 |  Ekin   | Moderatör |  [![Ekin](https://img.shields.io/badge/SoftSec-Discord-blue)](https://discord.com/users/827300245988835408)  |
 
 ## Başlamadan Önce
-Başlamadan önce siber güvenlik ve programlama konusunda kendinizi geliştirmek için ve aklınıza takılan veya cevabını öğrenmek istediğiniz sorularınızı sormak veya diğer üyelerin sorularını cevaplamak için [Discord](https://discord.gg/BQYJxfQMeR) sunucumuza gelebilirsiniz. Ayrıca sunucu içerisinde eğlenceli etkinlikler de oluyor yani büyük bir topluluk olmaya çalışıyoruz sizleride bekleriz. Artık devam edebiliriz.
+Başlamadan önce siber güvenlik ve programlama konusunda kendinizi geliştirmek için ve aklınıza takılan veya cevabını öğrenmek istediğiniz sorularınızı sormak veya diğer üyelerin sorularını cevaplamak için Discord](https://discord.gg/BQYJxfQMeR) sunucumuza gelebilirsiniz. Ayrıca sunucu içerisinde eğlenceli etkinlikler de yapılıyor ve bu topluluğu sizlerle birlikte büyütmeye çalışıyoruz sizleri de bekleriz.Ayrıca herhangi bir sorunuz varsa Discord sunucumuza katılarak veya bize [Gmail](teamsoftsec@gmail.com) adresimizden ulaşarak sorabilirsiniz .
 
-## CTF ve King-Off-the-Hill
+## Soru sormadan önce?
+
+<b>Sunucu üyelerimizden tek beklentimiz ise şu, [Google](https://google.com/) nasıl kullanılır?</b>
+
+Sorunuzu sormadan önce, öncelikle Hz. Google'dan yardım alın, bu konuda google nasıl kullanılır, arama yaparken nelere dikkat edilmeli, hangi anahtar kelimelerle arama yapılmalı gibi konuları bilmeniz; sadece siber güvenlikte değil, günlük hayattaki tüm işlerinizi de hallederken size yardımcı olacaktır. Aşağıdaki diyagram net bir şekilde açıklıyor: 
+
+![Nasıl soru sorulur?](https://raw.githubusercontent.com/SoftSec-git/kaynaklar/main/question.svg)
+
+## CTF & King-Off-the-Hill
 #### CTF nedir?
 CTF(Capture the flag), bayrağı yakala adıyla bilinen siber güvenlik alanında düzenlenen uygulamalı öğretici yarışmalardır.Yarışmaların asıl amacı, hack konusunda öğrenilen bilgiye sahip olan insanların bu bilgileri pratiğe dökerek kendilerini test etmelerini sağlamaktır.
 
 #### King of the Hill nedir?
-King of The Hill en basit tanımıyla yarışmacıların belli bir süre içerisinde verilen CTF'deki tüm flagleri toplamak ve yetki yükseltmektir. Toplanılan her flag başına puan kazanılmakta ve en çok puanı toplayan kişi "King(Kral)" olarak oyunu kazanmaktadır.
+King of The Hill en basit tanımıyla yarışmacıların belli bir süre içerisinde verilen CTF'deki tüm flagleri toplamak ve yetki yükseltmektir. Toplanılan her flag başına puan kazanılmakta ve en çok puanı toplayan kişi "King (Kral)" olarak oyunu kazanmaktadır.
 
-Genellikle [SoftSec Discord sunucusunda](https://discord.gg/BQYJxfQMeR) CTF ve King Off the Hill tarzı yarışmalar yapıyoruz. Katılmak istersen seni de bekleriz. Herkes izlemek veya katılmak için gelebilir.
+Bizler CTF ve King Off the Hill tarzı yarışmalar yapıyoruz. Katılmak veya izlemek istersen seni de [discord](https://discord.gg/BQYJxfQMeR) sunucumuza bekleriz. 
 
 <details>
-<summary>Kendinizi Deneyebileceğiniz CTF ve King-Off-the-Hill Platformları</summary>
+<summary>CTF için lab ortamları</summary>
 
 1. https://tryhackme.com
 2. https://hackthebox.eu
@@ -39,9 +46,10 @@ Genellikle [SoftSec Discord sunucusunda](https://discord.gg/BQYJxfQMeR) CTF ve K
 8. https://picoctf.org
 9. https://overthewire.org
 10. https://ctflearn.com/
+
 </details>
 <details>
-<summary>En sevilen CTF kaynakları ve toollar</summary>
+<summary>Popüler CTF kaynakları</summary>
 
 1. https://gchq.github.io/CyberChef/
 2. https://gtfobins.github.io/
@@ -55,22 +63,39 @@ Genellikle [SoftSec Discord sunucusunda](https://discord.gg/BQYJxfQMeR) CTF ve K
 10. https://book.hacktricks.xyz/
 </details>
 
-Artık bir çok kaynağa sahibiz fakat nasıl bir yol izleyeceğim  diyorsan [burada](https://blog.tryhackme.com/free_path) açıklamışlar buyur.
+Artık belli bir noktaya gelip bazı konular hakkında bilgi sahibi olduysan ve kendine bir yol haritası çizmekte zorlanıyorsan <b>şiddetle</b> tavsiye ettiğimiz 
+Tryhackme'de başlangıç için çizilmiş [blog yazısına](https://blog.tryhackme.com/free_path) bakabilirsin. 
 
-## Nasıl soru sorarım? :joy:
-
-![Nasıl soru sorulur?](https://raw.githubusercontent.com/SoftSec-git/kaynaklar/main/question.svg)
 
 ## Nasıl Siber güvenlik uzmanı olurum?
-1. İnternet nedir, ne işe yarar, nasıl çalışır bunları bilmen lazım bunun için de bir oynatma listesi çektik: [https://www.youtube.com/watch?v=z_hwl6O63rg&list=PLmc73ogn7_HP0VUkdJBUpbf28dRN30zHK].
-2. Http, https, request, response, gibi birçok terimi öğren: [https://www.youtube.com/watch?v=PD8r9ISYgQo].
-3. Hacking dünyasında çoğunlukla kullanılan kali linux'u kurun nasıl kuracağız diyiyorsanız bu video güzel: [https://www.youtube.com/watch?v=KJEWiD4gJVk].
-4. Temel linux komutlarını öğreniniz bunun için [https://www.youtube.com/watch?v=Npj7TDi2XSA&list=PLPa55dyKM2F2qm1AlNjld8cl2akV2FLyh] bu oynatma listesi güzel bir de bunları izledikten sonra [https://linux-dersleri.github.io/] burdaki dökümanları da okuyunuz.
-5. Python öğren [https://www.youtube.com/playlist?list=PLzIWkToFwqHRZWCI_helg4PeN184yTbYS] ama siber güvenlik için öğreneceksen [https://www.btkakademi.gov.tr/portal/course/siber-guvenlik-icin-python-egitimi-9220#!/about] bunu kesinlikle alman lazım.
-6. Bundan sonrasında [https://www.btkakademi.gov.tr/portal/course/siber-guvenlik-temelleri-egitim-paketi-11961] bu kursu alarak öğrenebilirsin.
-7. Yukarıdaki maddelerin hepsini yaptıysan şimdi alıştırma vakti gelmiş demektir. Bunun içinde [https://tryhackme.com/] sitesinde hem öğren hemde ctf çöz.
-8. Kendi alanını seç(web, reverse engineering, mobil, yazılım, vs.).
-9.  Bunlardan sonra artık kendi yolunu çizebilirsin.
+<summary>İnternet nedir, ne işe yarar, nasıl çalışır</summary>
+https://www.youtube.com/watch?v=z_hwl6O63rg&list=PLmc73ogn7_HP0VUkdJBUpbf28dRN30zHK.
+<details>
+<summary>Web terimleri</summary>
+- https://www.youtube.com/watch?v=PD8r9ISYgQo
+</details>
+
+3. Penetrasyon için işletim sistemi kurulumu ve seçimi
+<details>
+
+- https://www.youtube.com/watch?v=KJEWiD4gJVk
+</details>
+
+4. Temel linux komutları  
+<details>
+
+
+- https://www.youtube.com/watch?v=Npj7TDi2XSA&list=PLPa55dyKM2F2qm1AlNjld8cl2akV2FLyh 
+- https://linux-dersleri.github.io/ 
+- https://www.udemy.com/course/mini-linux-kursu/ 
+- https://www.udemy.com/course/linux-dokumantasyonu/ 
+
+</details>
+
+1. Python öğren https://www.youtube.com/playlist?list=PLzIWkToFwqHRZWCI_helg4PeN184yTbYS & https://www.btkakademi.gov.tr/portal/course/siber-guvenlik-icin-python-egitimi-9220#!/about
+
+2. Siber güvenlik geniş bir alan olduğu için alt dallara ayrılıyor bunun için [bu linkten]() yararlanabilirisiniz.
+3.  Bunlardan sonra artık kendi yolunu çizebilirsin.
 
 ## Neden siber güvenlikte Python çoğunlukla kullanılıyor?
 - Python diğer dillere göre öğrenmesi daha kolay.
