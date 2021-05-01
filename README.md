@@ -14,11 +14,18 @@
 |     crast     | Moderatör | [![crast](https://img.shields.io/badge/SoftSec-Discord-purple)](https://discord.com/users/835907613890707516)  |
 |     Ekin      | Moderatör |  [![Ekin](https://img.shields.io/badge/SoftSec-Discord-purple)](https://discord.com/users/827300245988835408)  |
 
+## Başlamadan Önce
+Başlamadan önce [Discord](https://discord.gg/BQYJxfQMeR) sunucumuza gelirseniz çok şey kazanabilirsiniz. Artık devam edebiliriz.
 
-## Academy
-Sizin gibi değerli insanlara programlama, siber güvenlik ve daha nicesini öğretmek için SoftSec sunucusunda(https://discord.io/soft-sec) her hafta cumartesi günleri eğitim vermekteyiz. Bence gelin çok şey öğretiyoruz ama yinede ben o zamanlar meşgulum diyenleriniz varsa SoftSec youtube kanalımızda(https://youtube.com/c/SoftSec/) eğitimlerin kısaltılmış hallerini paylaşıyoruz. İzlemenizi ve daha sonraki yayınlardan haberiniz olması için abone olup ve bildirimleri açmayı unutmayınız. İsteyen bize ulaşıp eğer onaylanırsa sunucuda academy verebilir.
+<iframe src="https://discord.com/widget?id=835246397137748039&theme=dark" width="350" height="500" allowtransparency="true" frameborder="0" sandbox="allow-popups allow-popups-to-escape-sandbox allow-same-origin allow-scripts"></iframe>
 
 ## CTF ve King-Off-the-Hill
+#### CTF nedir?
+CTF(Capture the flag), bayrağı yakala adıyla bilinen siber güvenlik alanında düzenlenen uygulamalı öğretici yarışmalardır.Yarışmaların asıl amacı, hack konusunda öğrenilen bilgiye sahip olan insanların bu bilgileri pratiğe dökerek kendilerini test etmelerini sağlamaktır.
+
+#### King of the Hill nedir?
+King of The Hill en basit tanımıyla toplu olarak CTF çözülmesidir. Burada katılımcıların amacı verilen makinedeki flagleri toplamak ve root olmaktır.Her flag başına puan kazanılmaktadır ve en çok puanı toplayan kişi King yani kral olarak oyunu kazanır.
+
 Genellikle [SoftSec sunucusunda](https://discord.io/soft-sec) CTF veya King Off the Hill atıyoruz senide bekleriz. Herkes izlemek içinde gelebilir katılmak içinde.
 
 <details>
@@ -47,29 +54,30 @@ Genellikle [SoftSec sunucusunda](https://discord.io/soft-sec) CTF veya King Off 
 7. https://github.com/carlospolop/privilege-escalation-awesome-scripts-suite
 8. https://linux-dersleri.github.io/
 9. https://github.com/swisskyrepo/PayloadsAllTheThings
+10. https://book.hacktricks.xyz/
 </details>
 
-Elimde dolu kaynak ve ctf platformu oldu ama nasıl bir yol izlemeliyim diyorsan [burada](https://blog.tryhackme.com/free_path) açıklamışlar buyur.
+Artık bir çok kaynağa sahibiz fakat nasıl bir yol izleyeceğim  diyorsan [burada](https://blog.tryhackme.com/free_path) açıklamışlar buyur.
 
 ## Nasıl soru sorarım? :joy:
 
 ![Nasıl soru sorulur?](https://raw.githubusercontent.com/SoftSec-git/kaynaklar/main/question.svg)
 
 ## Nasıl Siber güvenlik uzmanı olurum?
-1. Linux'un nasıl birşey olduğunu nasıl çalıştığını arkada neler döndüğünü bilmen lazım işte bu iş için bir video çektik *******.
-1. Http, https, request, response, gibi birçok terimi öğren: https://www.youtube.com/watch?v=PD8r9ISYgQo
-1. İnternet nedir, ne işe yarar, nasıl çalışır bunları bilmen lazım bunun içinde bir oynatma listesi çektik: https://www.youtube.com/watch?v=z_hwl6O63rg&list=PLmc73ogn7_HP0VUkdJBUpbf28dRN30zHK
-1. Hacking dünyasında çoğunlukla kullanılan kali linux'u kurun nasıl kuracağız diyiyorsanız bu video güzel: https://www.youtube.com/watch?v=m1Um-lSr50k&t=53s bir de bu videoda 2020.3 kuruyor aynı işlemleri en son sürümdede yapabilirsiniz.
-1. Temel linux komutlarını öğreniniz bunun için https://www.youtube.com/watch?v=Npj7TDi2XSA&list=PLPa55dyKM2F2qm1AlNjld8cl2akV2FLyh bu oynatma listesi güzel bir de bunları izledikten sonra https://linux-dersleri.github.io/ burdaki dökümanları da okuyunuz.
-1. Python öğren https://www.youtube.com/playlist?list=PLzIWkToFwqHRZWCI_helg4PeN184yTbYS ama siber güvenlik için öğreneceksen https://www.udemy.com/course/python-sifirdan-ileri-seviyeye/ bunu kesinlikle alman lazım.
-1. Bundan sonrasınında https://www.udemy.com/course/etik-hacker-olma-kursu/ bu kursu alarak öğrenebilirsin
-1. Yukarıdaki maddelerin hepsini yaptıysan şimdi alıştırma vakti gelmiş demektir. Bunun içinde https://tryhackme.com/ sitesinde hem öğren hemde ctf çöz
-1. Kendi alanını seç(web, reverse engineer, mobil, yazılımcı, vs.)
-1. Bunlardan sonra artık kendi yolunu çizebilirsin
+1. İnternet nedir, ne işe yarar, nasıl çalışır bunları bilmen lazım bunun içinde bir oynatma listesi çektik: [https://www.youtube.com/watch?v=z_hwl6O63rg&list=PLmc73ogn7_HP0VUkdJBUpbf28dRN30zHK].
+2. Http, https, request, response, gibi birçok terimi öğren: [https://www.youtube.com/watch?v=PD8r9ISYgQo].
+3. Hacking dünyasında çoğunlukla kullanılan kali linux'u kurun nasıl kuracağız diyiyorsanız bu video güzel: [https://www.youtube.com/watch?v=KJEWiD4gJVk].
+4. Temel linux komutlarını öğreniniz bunun için [https://www.youtube.com/watch?v=Npj7TDi2XSA&list=PLPa55dyKM2F2qm1AlNjld8cl2akV2FLyh] bu oynatma listesi güzel bir de bunları izledikten sonra [https://linux-dersleri.github.io/] burdaki dökümanları da okuyunuz.
+5. Python öğren [https://www.youtube.com/playlist?list=PLzIWkToFwqHRZWCI_helg4PeN184yTbYS] ama siber güvenlik için öğreneceksen [https://www.btkakademi.gov.tr/portal/course/siber-guvenlik-icin-python-egitimi-9220#!/about] bunu kesinlikle alman lazım.
+6. Bundan sonrasında [https://www.btkakademi.gov.tr/portal/course/siber-guvenlik-temelleri-egitim-paketi-11961] bu kursu alarak öğrenebilirsin.
+7. Yukarıdaki maddelerin hepsini yaptıysan şimdi alıştırma vakti gelmiş demektir. Bunun içinde [https://tryhackme.com/] sitesinde hem öğren hemde ctf çöz.
+8. Kendi alanını seç(web, reverse engineering, mobil, yazılım, vs.).
+9.  Bunlardan sonra artık kendi yolunu çizebilirsin.
 
 ## Neden siber güvenlikte Python çoğunlukla kullanılıyor?
 - Python diğer dillere göre öğrenmesi daha kolay.
-- Python çok amaçlı kullanılan dillir.
+- Python çok amaçlı kullanılan dilldir.
+- Çok kapsamlı projeleri diğer dillere oranla daha kısa ve öz bir şekilde yazılabilmesi.
 
 <details>
 <summary>Öğrenmek için:</summary>
@@ -77,20 +85,24 @@ Elimde dolu kaynak ve ctf platformu oldu ama nasıl bir yol izlemeliyim diyorsan
 - https://docs.python.org/3/tutorial/
 - https://www.youtube.com/playlist?list=PL-osiE80TeTskrapNbzXhwoFUiLCjGgY7
 - https://youtube.com/playlist?list=PL-osiE80TeTsqhIuOqKhwlXsIBIdSeYtc (yukarıdaki eğitimin devamıdır.)
+- https://www.udemy.com/course/python-programlamann-temelleri/
 
 </details>
 
 ## Kaynaklar
 <details>
-<summary>Takip edilmesi gereken YouTube kanalları:</summary>
+<summary>Takip edilmesi gereken kanallar:</summary>
 
 ### Siber Güvenlik
 - [SoftSec](https://www.youtube.com/channel/UCXBUnKD0OTb7UEqs4ibso9g)
 - [Can Değer](https://www.youtube.com/user/theblaxx)
 - [Mehmet Dursun İnce](https://www.youtube.com/channel/UClis21-nGFunHa9agc7Md_Q)
+- [Utku Şen](https://www.youtube.com/c/UtkuSenYoutube/featured)
+- [Cemal Taner](https://www.youtube.com/channel/UClzBAbvojmq32DpHqyqhkPA)
 - [Siber Kampüs](https://www.youtube.com/channel/UCfvjRxayLujZbc_JWTYhbMg)
 - [Gökhan Bekşen](https://www.youtube.com/user/gokaybeksen)
 - [Türkiye Siber Güvenlik Kümelenmesi](https://www.youtube.com/channel/UCHxw8GMMg62MXepyA-0wtDw)
+- [ScottSec](https://www.youtube.com/channel/UC_x9PbVa6dqDf_2bd8rgGwg)
 - [Gökhan Muherremoğlu](https://www.youtube.com/channel/UCK1Eb19myZZZp21laMcmoJg)
 
 <details>
@@ -99,6 +111,10 @@ Elimde dolu kaynak ve ctf platformu oldu ama nasıl bir yol izlemeliyim diyorsan
 - [John Hammond](https://www.youtube.com/user/RootOfTheNull)
 - [NetworkChuck](https://www.youtube.com/user/NetworkChuck)
 - [David Bombal](https://www.youtube.com/channel/UCP7WmQ_U4GB3K51Od9QvM0w)
+- [InsiderPhD](https://www.youtube.com/channel/UCPiN9NPjIer8Do9gUFxKv7A)
+- [Busra Demir](https://www.youtube.com/channel/UCksdNO8hAiOQoWZhEXhyyZA)
+- [STÖK](https://www.youtube.com/channel/UCQN2DsjnYH60SFBIA6IkNwg)
+- [Bug Bounty Reports](https://www.youtube.com/channel/UCZDyl7G-Lq-EMVO8PfDFp9g)
 - [Bugcrowd](https://www.youtube.com/channel/UCo1NHk_bgbAbDBc4JinrXww)
 - [HackerOne](https://www.youtube.com/channel/UCsgzmECky2Q9lQMWzDwMhYw)
 - [HackerSploit](https://www.youtube.com/channel/UC0ZTPkdxlAKf-V33tqXwi3Q)
@@ -107,12 +123,30 @@ Elimde dolu kaynak ve ctf platformu oldu ama nasıl bir yol izlemeliyim diyorsan
 - [Null Byte](https://www.youtube.com/channel/UCgTNupxATBfWmfehv21ym-g)
 - [LiveOverflow](https://www.youtube.com/channel/UClcE-kVhqyiHCcjYwcpfj9w)
 - [Hak5](https://www.youtube.com/user/Hak5Darren)
+- [NahamSec](https://www.youtube.com/channel/UCCZDt7MuC3Hzs6IH4xODLBw)
+- [Black Hat](https://www.youtube.com/c/BlackHatOfficialYT/videos)
+- [DEFCONConference](https://www.youtube.com/channel/UC6Om9kAkl32dWlDSNlDS9Iw)
+- [TomNomNom](https://www.youtube.com/channel/UCyBZ1F8ZCJVKSIJPrLINFyA)
+- [zSecurity](https://www.youtube.com/user/zaidsabeeh)
 </details>
+
+
+#### Siber Güvenlik ile ilgili Twitch Kanalları
+- [MDISEC](https://www.twitch.tv/mdisec)
+- [LuNiZZ](https://www.twitch.tv/lunizz)
+- [Utku Şen](https://www.twitch.tv/utku1337)
+- [om3rcitak](https://www.twitch.tv/om3rcitak)
+- [ScottSec](https://www.twitch.tv/scottsec)
+- [thecybermentor](https://www.twitch.tv/thecybermentor)
+- [NahamSec](https://www.twitch.tv/nahamsec)
+- [networkchuck](https://www.twitch.tv/networkchuck)
+
 
 ### Programlama
 
 - [Sadık Turan](https://www.youtube.com/user/sadikturan41)
 - [Selman Kahya](https://www.youtube.com/channel/UC9Z-Gc_BkYuW75jKcTJICJA)
+- [Kaan Academy](https://www.youtube.com/c/KaanAcademy/videos)
 - [Mert Mekatronik](https://www.youtube.com/channel/UCqMYDjUgPT1Ad-LBQaTtyXA)
 - [Yazılım Bilimi](https://www.youtube.com/channel/UCZNZj3mkdCGJfCoKyl4bSYQ)
 - [Selman Kahya | Teknik](https://www.youtube.com/channel/UCmp2rZ-cJJ_TQupBzzR7LdA)
@@ -121,6 +155,7 @@ Elimde dolu kaynak ve ctf platformu oldu ama nasıl bir yol izlemeliyim diyorsan
 - [Emircan Dalman](https://www.youtube.com/channel/UCelXax_n37HQmaiCUSMa-HA/videos)
 - [Engin Demiroğlu](https://www.youtube.com/channel/UCRjiquPh4mjPNoOV9eCilXQ)
 - [Tekno Date](https://www.youtube.com/channel/UCk2NW1-7Jzm55FP2v3pVn-Q)
+- [CS50](https://www.youtube.com/channel/UCcabW7890RKJzL968QWEykA)
 
 <details>
 <summary>Programlamayla ilgili İngilizce YouTube kanalları:</summary>
@@ -135,58 +170,91 @@ Elimde dolu kaynak ve ctf platformu oldu ama nasıl bir yol izlemeliyim diyorsan
 #### Bilgi dolu websiteleri:
 
 - https://www.hackingarticles.in/
-- https://book.hacktricks.xyz
-- www.securityidiots.com
+- https://book.hacktricks.xyz/
+- https://securityidiots.com/
+- https://devhints.io/
+- https://learnxinyminutes.com/
 
 #### Kurslar için websiteler:
 - https://www.udemy.com/
+- https://www.coursera.org/
 - https://www.btkakademi.gov.tr/
 - https://www.youtube.com/
 
 </details>
 
 ## Web Security
-Kuşkusuz burdaki en iyi kaynak [portswigger](https://portswigger.net/web-security/dashboard) olucaktır. Ama ctf istiyorsan [pentesterlab](https://pentesterlab.com/) var.
-<details>
-<summary>Vulnerabilitys (Açıklar)</summary>
+Kuşkusuz burdaki en iyi kaynak [PortSwigger](https://portswigger.net/web-security/dashboard) olucaktır. Ama ctf istiyorsan [PentesterLab](https://pentesterlab.com/) var.
+
 
 ###  SQL Injection (SQLi)
-SQLi sorguya müdahele ederek veritabanında kod çalıştırmadır. Bunun sonucunda veritabanını ele geçirmiş demektir; bu da tüm şifreler, adresler, kişisel bilgiler ve daha fazlası demektir.
-[Daha fazlası için](https://portswigger.net/web-security/sql-injection)
-<details>
-<summary>Kaynaklar ve Payloadlar</summary>
 
+- https://portswigger.net/web-security/sql-injection
+- https://book.hacktricks.xyz/pentesting-web/sql-injection
 - https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/SQL%20Injection
 - https://www.codecademy.com/articles/sql-commands
 - https://portswigger.net/web-security/sql-injection/cheat-sheet
 </details>
 
 ###  Cross-Site Scripting (XSS)
-XSS sorguya müdahele ederek javascript çalıştırmaktır. Bunun sonucunda adminin cookieside kolaylıkla ele geçirmiş demektir; bu da siteye admin olarak giriş yapabiliriz demektir. 
-[Daha fazlası için](https://portswigger.net/web-security/cross-site-scripting)
-<details>
-<summary>Kaynaklar ve Payloadlar</summary>
 
+- https://portswigger.net/web-security/cross-site-scripting
+- https://book.hacktricks.xyz/pentesting-web/xss-cross-site-scripting
 - https://github.com/swisskyrepo/PayloadsAllTheThings/tree/master/XSS%20Injection
 - https://github.com/payloadbox/xss-payload-list
 - https://portswigger.net/web-security/cross-site-scripting/cheat-sheet
 </details>
 
 ###  Directory traversal (LFI)
-LFI sorguya müdahele ederek sistemdeki kullanıcının okuma izni olan tüm dosyaları okuyabilmedir. Bunun sonucunda veritabanı, gizli dosyalar, şifreler ve daha fazlası kolaylıkla ele geçirmiş demektir.
-[Daha fazlası için](https://portswigger.net/web-security/file-path-traversal)
-<details>
-<summary>Kaynaklar ve Payloadlar</summary>
+- https://book.hacktricks.xyz/pentesting-web/file-inclusion
+- https://portswigger.net/web-security/file-path-traversal
 
-- https://book.hacktricks.xyz/pentesting-web/file-inclusion/lfi-linux-list
-</details>
+###  API Pentesting
+- https://book.hacktricks.xyz/pentesting/pentesting-web/api-pentesting
+- https://portswigger.net/support/using-burp-to-test-a-rest-api
 
 ###  OS command injection
-OS command injection sorguya müdahele ederek sistemde kod çalıştırmadır. Bunun sonucunda sistme tamamen sızılabilir.
-[Daha fazlası için](https://portswigger.net/web-security/os-command-injection)
-<details>
-<summary>Kaynaklar ve Payloadlar</summary>
+- https://owasp.org/www-community/attacks/Command_Injection
+- https://portswigger.net/web-security/os-command-injection
 
-- **
-</details>
+###  Cross-site request forgery (CSRF)
+- https://book.hacktricks.xyz/pentesting-web/csrf-cross-site-request-forgery
+- https://portswigger.net/web-security/csrf
+
+### OAuth 2.0
+- https://book.hacktricks.xyz/pentesting-web/oauth-to-account-takeover
+- https://portswigger.net/web-security/oauth
+
+### Business logic vulnerabilities 
+- https://portswigger.net/web-security/logic-flaws
+- https://owasp.org/www-community/vulnerabilities/Business_logic_vulnerability
+
+### XML external entity (XXE) injection
+- https://book.hacktricks.xyz/pentesting-web/xxe-xee-xml-external-entity
+- https://portswigger.net/web-security/xxe
+- https://owasp.org/www-community/vulnerabilities/XML_External_Entity_(XXE)_Processing
+
+### Cross-origin resource sharing (CORS) 
+- https://book.hacktricks.xyz/pentesting-web/cors-bypass
+- https://portswigger.net/web-security/cors
+
+### Server-side request forgery (SSRF) 
+- https://book.hacktricks.xyz/pentesting-web/ssrf-server-side-request-forgery
+- https://portswigger.net/web-security/ssrf
+- https://owasp.org/www-community/attacks/Server_Side_Request_Forgery
+
+### Server-side template injection (SSTI)
+- https://book.hacktricks.xyz/pentesting-web/ssti-server-side-template-injection
+- https://portswigger.net/research/server-side-template-injection
+- https://owasp.org/www-chapter-ghana/assets/slides/Owasp_SSTI_final.pdf
+
+### Insecure direct object references (IDOR)
+- https://book.hacktricks.xyz/pentesting-web/idor
+- https://portswigger.net/web-security/access-control/idor
+- 
+
+### 2 factor Authentication Bypass (2FA Bypass)
+- https://book.hacktricks.xyz/pentesting-web/2fa-bypass
+- https://portswigger.net/web-security/authentication/multi-factor 
+
 </details>
