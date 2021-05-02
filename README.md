@@ -14,7 +14,7 @@
 |  Ekin   | Moderatör |  [![Ekin](https://img.shields.io/badge/SoftSec-Discord-blue)](https://discord.com/users/827300245988835408)  |
 
 ## Önsöz
-Başlamadan önce siber güvenlik ve programlama konusunda kendinizi geliştirmek için ve aklınıza takılan veya cevabını öğrenmek istediğiniz sorularınızı sormak veya diğer üyelerin sorularını cevaplamak için Discord](https://discord.gg/BQYJxfQMeR) sunucumuza gelebilirsiniz. Ayrıca sunucu içerisinde eğlenceli etkinlikler de yapılıyor ve bu topluluğu sizlerle birlikte büyütmeye çalışıyoruz sizleri de bekleriz.Ayrıca herhangi bir sorunuz varsa Discord sunucumuza katılarak veya bize [Gmail](teamsoftsec@gmail.com) adresimizden ulaşarak sorabilirsiniz .
+Başlamadan önce siber güvenlik ve programlama konusunda kendinizi geliştirmek için ve aklınıza takılan veya cevabını öğrenmek istediğiniz sorularınızı sormak veya diğer üyelerin sorularını cevaplamak için [Discord](https://discord.gg/BQYJxfQMeR) sunucumuza gelebilirsiniz. Ayrıca sunucu içerisinde eğlenceli etkinlikler de yapılıyor ve bu topluluğu sizlerle birlikte büyütmeye çalışıyoruz sizleri de bekleriz.Ayrıca herhangi bir sorunuz varsa Discord sunucumuza katılarak veya bize [Gmail](teamsoftsec@gmail.com) adresimizden ulaşarak sorabilirsiniz .
 
 ## Soru sormadan önce?
 
@@ -29,7 +29,7 @@ Sorunuzu sormadan önce, öncelikle Hz. Google'dan yardım alın, bu konuda goog
 CTF(Capture the flag), bayrağı yakala adıyla bilinen siber güvenlik alanında düzenlenen uygulamalı öğretici yarışmalardır.Yarışmaların asıl amacı, hack konusunda öğrenilen bilgiye sahip olan insanların bu bilgileri pratiğe dökerek kendilerini test etmelerini sağlamaktır.
 
 #### King of the Hill nedir?
-King of The Hill en basit tanımıyla yarışmacıların belli bir süre içerisinde verilen CTF'deki tüm flagleri toplamak ve yetki yükseltmektir. Toplanılan her flag başına puan kazanılmakta ve en çok puanı toplayan kişi "King (Kral)" olarak oyunu kazanmaktadır.
+King of The Hill en basit tanımıyla yarışmacıların belli bir süre içerisinde verilen CTF'deki tüm flagleri toplaması ve yetki yükseltmesidir. Toplanılan her flag başına puan kazanılmakta ve en çok puanı toplayan kişi "King (Kral)" olarak oyunu kazanmaktadır.
 
 Bizler CTF ve King Off the Hill tarzı yarışmalar yapıyoruz. Katılmak veya izlemek istersen seni de [discord](https://discord.gg/BQYJxfQMeR) sunucumuza bekleriz. 
 
